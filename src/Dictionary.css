@@ -1,0 +1,17 @@
+.Dictionary h2 {
+    font-size: 24px;
+}
+.Dictionary p {
+    text-align: left;
+    font-size: 12px;
+    font-style: italic;
+}
+
+.Dictionary form {
+    background-color: rgb(255, 255, 255);
+}
+
+.Dictionary input {
+  color: gray;
+  width: 100%;
+}
