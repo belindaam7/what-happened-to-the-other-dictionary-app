@@ -1,6 +1,7 @@
 .App {
   text-align: left;
 }
+
 section {
   background-color: rgb(253, 248, 255);
   margin: 20px;
@@ -10,7 +11,7 @@ section {
 }
 
 .container .App {
-  margin: 80px auto;
+  margin: 40px auto;
   max-width: 600px;
   min-width: 500px;
 }
